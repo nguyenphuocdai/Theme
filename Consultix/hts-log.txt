@@ -1,0 +1,31 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 23 Nov 2022 17:47:15 at https://htmldemo.net/consultix/consultix/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://htmldemo.net/consultix/consultix/index.html -O1 "D:\My Web Sites\Consultix" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:47:32	Error: 	"Not Found" (404) at link https://htmldemo.net/consultix/consultix/Replace_with_your_PAGE_URL (from https://htmldemo.net/consultix/consultix/index.html)
+17:48:18	Error: 	"Not Found" (404) at link https://htmldemo.net/consultix/consultix/blog-single.html (from https://htmldemo.net/consultix/consultix/blog.html)
+17:48:18	Error: 	"Not Found" (404) at link https://htmldemo.net/consultix/consultix/css/owl.video.play.png (from https://htmldemo.net/consultix/consultix/css/owl.css)
+17:48:18	Error: 	"Not Found" (404) at link https://htmldemo.net/consultix/consultix/css/images/ui-icons_444444_256x240.png (from https://htmldemo.net/consultix/consultix/css/jquery-ui.css)
+17:48:18	Error: 	"Not Found" (404) at link https://htmldemo.net/consultix/consultix/css/images/ui-icons_777620_256x240.png (from https://htmldemo.net/consultix/consultix/css/jquery-ui.css)
+17:48:18	Error: 	"Not Found" (404) at link https://htmldemo.net/consultix/consultix/css/images/ui-icons_cc0000_256x240.png (from https://htmldemo.net/consultix/consultix/css/jquery-ui.css)
+17:48:18	Error: 	"Not Found" (404) at link https://htmldemo.net/consultix/consultix/css/images/ui-icons_777777_256x240.png (from https://htmldemo.net/consultix/consultix/css/jquery-ui.css)
+17:48:18	Error: 	"Not Found" (404) at link https://htmldemo.net/consultix/consultix/css/fonts/icofont.woff2 (from https://htmldemo.net/consultix/consultix/css/icofont.min.css)
+17:48:18	Error: 	"Not Found" (404) at link https://htmldemo.net/consultix/consultix/css/fonts/icofont.woff (from https://htmldemo.net/consultix/consultix/css/icofont.min.css)
+17:48:18	Error: 	"Not Found" (404) at link https://htmldemo.net/consultix/consultix/css/fonts/themify.eot?-fvbane (from https://htmldemo.net/consultix/consultix/css/themify-icons.css)
+17:48:18	Error: 	"Not Found" (404) at link https://htmldemo.net/consultix/consultix/css/fonts/themify.eot? (from https://htmldemo.net/consultix/consultix/css/themify-icons.css)
+17:48:18	Error: 	"Not Found" (404) at link https://htmldemo.net/consultix/consultix/css/fonts/themify.woff?-fvbane (from https://htmldemo.net/consultix/consultix/css/themify-icons.css)
+17:48:18	Error: 	"Not Found" (404) at link https://htmldemo.net/consultix/consultix/css/fonts/themify.ttf?-fvbane (from https://htmldemo.net/consultix/consultix/css/themify-icons.css)
+17:48:18	Error: 	"Not Found" (404) at link https://htmldemo.net/consultix/consultix/css/fonts/themify.svg?-fvbane (from https://htmldemo.net/consultix/consultix/css/themify-icons.css)
+17:48:18	Error: 	"Not Found" (404) at link https://htmldemo.net/consultix/consultix/fonts/Simple-Line-Icons.eot?v=2.4.0 (from https://htmldemo.net/consultix/consultix/css/simple-line-icons.css)
+17:48:18	Error: 	"Not Found" (404) at link https://htmldemo.net/consultix/consultix/fonts/Simple-Line-Icons.woff2?v=2.4.0 (from https://htmldemo.net/consultix/consultix/css/simple-line-icons.css)
+17:48:18	Error: 	"Not Found" (404) at link https://htmldemo.net/consultix/consultix/fonts/Simple-Line-Icons.ttf?v=2.4.0 (from https://htmldemo.net/consultix/consultix/css/simple-line-icons.css)
+17:48:18	Error: 	"Not Found" (404) at link https://htmldemo.net/consultix/consultix/fonts/Simple-Line-Icons.woff?v=2.4.0 (from https://htmldemo.net/consultix/consultix/css/simple-line-icons.css)
+17:48:18	Error: 	"Not Found" (404) at link https://htmldemo.net/consultix/consultix/fonts/Simple-Line-Icons.svg?v=2.4.0 (from https://htmldemo.net/consultix/consultix/css/simple-line-icons.css)
+17:48:19	Error: 	"Not Found" (404) at link https://htmldemo.net/consultix/consultix/css/mCSB_buttons.html (from https://htmldemo.net/consultix/consultix/css/jquery.mCustomScrollbar.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 4 seconds : 146 links scanned, 125 files written (16599269 bytes overall) [10273920 bytes received at 160530 bytes/sec], 11391769 bytes transferred using HTTP compression in 87 files, ratio 43%, 24.3 requests per connection
+(20 errors, 0 warnings, 0 messages)
